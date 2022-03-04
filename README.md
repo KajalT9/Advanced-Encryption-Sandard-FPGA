@@ -17,4 +17,4 @@ In the AES encryption algorithm, each round consists of four rounds that run ord
 4.Adding the round key
 
 
-Detailed explanation of each round can be seen here : https://docs.google.com/document/d/1jv-OUjy-XpJR_GM5Ao-_7euhZXulS4otAQvEwGQ9xQo/edit?usp=sharing
+Detailed explanation of each round and final results can be seen here : https://docs.google.com/document/d/1jv-OUjy-XpJR_GM5Ao-_7euhZXulS4otAQvEwGQ9xQo/edit?usp=sharing
