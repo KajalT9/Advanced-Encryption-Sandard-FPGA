@@ -1,0 +1,24 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../project_1.srcs/sources_1/new/aescipher.v" \
+"../../../../project_1.srcs/sources_1/new/aesdecrypt.v" \
+"../../../../project_1.srcs/sources_1/new/aeskey.v" \
+"../../../../project_1.srcs/sources_1/new/inv_sbox.v" \
+"../../../../project_1.srcs/sources_1/new/invmixcolumns.v" \
+"../../../../project_1.srcs/sources_1/new/invrounds.v" \
+"../../../../project_1.srcs/sources_1/new/invshiftrows.v" \
+"../../../../project_1.srcs/sources_1/new/invsubbytes.v" \
+"../../../../project_1.srcs/sources_1/new/main.v" \
+"../../../../project_1.srcs/sources_1/new/mixcolumns.v" \
+"../../../../project_1.srcs/sources_1/new/roundlast.v" \
+"../../../../project_1.srcs/sources_1/new/rounds.v" \
+"../../../../project_1.srcs/sources_1/new/sbox.v" \
+"../../../../project_1.srcs/sources_1/new/shiftrow.v" \
+"../../../../project_1.srcs/sources_1/new/subbytes.v" \
+"../../../../project_1.srcs/sim_1/new/aes_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

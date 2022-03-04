@@ -1,0 +1,33 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/HDL/Project/New/project_1/project_1.srcs/sources_1/new/aescipher.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aesencrypt
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/HDL/Project/New/project_1/project_1.srcs/sources_1/new/aesdecrypt.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aesdecrypt
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/HDL/Project/New/project_1/project_1.srcs/sources_1/new/aeskey.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aeskey
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'keyout' is not allowed [F:/HDL/Project/New/project_1/project_1.srcs/sources_1/new/aeskey.v:25]
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/HDL/Project/New/project_1/project_1.srcs/sources_1/new/inv_sbox.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module inv_sbox
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/HDL/Project/New/project_1/project_1.srcs/sources_1/new/invmixcolumns.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module invmixcolumns
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/HDL/Project/New/project_1/project_1.srcs/sources_1/new/invrounds.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module invrounds
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/HDL/Project/New/project_1/project_1.srcs/sources_1/new/invshiftrows.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module invshiftrows
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/HDL/Project/New/project_1/project_1.srcs/sources_1/new/invsubbytes.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module invsubbytes
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/HDL/Project/New/project_1/project_1.srcs/sources_1/new/main.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module main
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/HDL/Project/New/project_1/project_1.srcs/sources_1/new/mixcolumns.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mixcolumn
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/HDL/Project/New/project_1/project_1.srcs/sources_1/new/roundlast.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rounndlast
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/HDL/Project/New/project_1/project_1.srcs/sources_1/new/rounds.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rounds
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/HDL/Project/New/project_1/project_1.srcs/sources_1/new/sbox.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sbox
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/HDL/Project/New/project_1/project_1.srcs/sources_1/new/shiftrow.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shiftrow
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/HDL/Project/New/project_1/project_1.srcs/sources_1/new/subbytes.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module subbytes
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/HDL/Project/New/project_1/project_1.srcs/sim_1/new/aes_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aes_tb
