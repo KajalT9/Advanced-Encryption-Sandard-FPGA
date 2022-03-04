@@ -9,7 +9,12 @@ As the number of rounds depends on the key size being used, A 128-bit key has 10
 In the AES encryption algorithm, each round consists of four rounds that run orderly, which include:
 
 1.Substitution of the bytes 
+
 2.Shifting the rows 
+
 3.Mixing the columns 
+
 4.Adding the round key
+
+
 detailed explanation of each round can be seen here : https://docs.google.com/document/d/1jv-OUjy-XpJR_GM5Ao-_7euhZXulS4otAQvEwGQ9xQo/edit?usp=sharing
